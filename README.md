@@ -131,6 +131,7 @@ Oh, and I've still got a lot of bookmarks to go through, so I'll be updating and
   * [React Starter Project Search](http://andrewhfarmer.com/starter-project/)
   * [Exploring the react Ecosystem!](https://www.toptal.com/react/navigating-the-react-ecosystem) - Article
   * [Code academy React program](HTTPS://www.codeacademy.com)
+  * [The Road to learn React - Build a Hacker News App along the way](https://www.robinwieruch.de/the-road-to-learn-react/)
   * [Great Free React books](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md) - Use this link first
 * Medium Links:
   * [React Components, Elements, and Instances (Medium)](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.rjx4d6bgw)
@@ -160,10 +161,8 @@ Oh, and I've still got a lot of bookmarks to go through, so I'll be updating and
   * [Distance Calculator Web Services API](https://developers.google.com/maps/documentation/distance-matrix/start)
 
 ---
-### Full Stack
+### Full Stack 
 * //Needs work
-
-* [Serverless Stack](http://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. Create a note taking app from scratch using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
 * [Intro to Back End Web Development](https://www.udacity.com/course/intro-to-backend--ud171)
 * [Express - Using a DB with Mongoose](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
 * [Node JS and Databases](https://blog.risingstack.com/node-js-database-tutorial/)
